@@ -137,7 +137,7 @@ body{
 
 
   .container .btn1:hover  {
-    background-color: black;
+    background-color: rgb(69, 38, 206);
   }  
   
   .container .btn2:hover  {
@@ -155,7 +155,7 @@ body{
   }  
   
   .container .btn5:hover  {
-    background-color: black;
+    background-color: rgb(25, 150, 94);
   }  
   
   .container .btn6:hover  {
